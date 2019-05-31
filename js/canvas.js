@@ -46,7 +46,7 @@ function initCanvas(){
 
   });
 
-  space.bindMouse().bindTouch().play();
+  space.bindMouse().play();
 }
 
 initCanvas();
